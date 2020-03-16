@@ -9,10 +9,10 @@ terms: >-
   ZHU, tour, images, live, live show, saxophone, guitar, concert, backstage,
   back stage, house, EDM, jazz, disco, tech house, deep house
 ---
-![](/images/uploads/dsc01764_large.jpg)
+![null](/images/uploads/dsc01764_large.jpg)
 
-![](/images/uploads/4_b6cbc062-f4d2-40ce-a14c-e850c5bdcf3c_large.jpg)
+![null](/images/uploads/4_b6cbc062-f4d2-40ce-a14c-e850c5bdcf3c_large.jpg)
 
-![](/images/uploads/dsc9719_large-1.jpg)
+![null](/images/uploads/dsc9719_large-1.jpg)
 
-![](/images/uploads/dsc02654_large.jpg)
+![null](/images/uploads/dsc02654_large.jpg)
